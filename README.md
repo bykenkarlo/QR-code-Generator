@@ -1,3 +1,7 @@
 # QR-code-Generator
 
-JS
+*JS
+
+
+#CONTACT
+me@bL4nkcode.info
