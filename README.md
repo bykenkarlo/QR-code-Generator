@@ -1,6 +1,6 @@
 # QR-code-Generator
 
-*JS
+* JS
 
 
 # CONTACT
