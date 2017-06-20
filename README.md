@@ -1,2 +1,3 @@
 # QR-code-Generator
 
+JS
